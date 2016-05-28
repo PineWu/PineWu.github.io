@@ -46,10 +46,11 @@ h5 { font-size: 1.0em; }
 h6 { font-size: 0.8em; }
 
 blockquote {
-    color: #666;
+    color: #555;
     margin: 0;
     padding-left: 3em;
-    border-left: 0.4em #eee solid;
+    background-color: #F8F8F8;
+    border-left: 4px #4CB288 solid;
 }
 
 hr {
@@ -100,8 +101,8 @@ pre, code {
 }
 
 code {
-    color: #666;
-    background-color: #eee;
+    color: #c7254e;
+    background-color: #f9f2f4;
     margin: 0 2px;
     padding: 1px 3px;
 }
