@@ -48,7 +48,7 @@ h6 { font-size: 0.8em; }
 blockquote {
     color: #555;
     margin: 0;
-    padding-left: 3em;
+    padding-left: 1em;
     background-color: #F8F8F8;
     border-left: 4px #4CB288 solid;
 }
